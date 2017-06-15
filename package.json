@@ -1,0 +1,38 @@
+{
+  "name": "react-native-zero-calendar",
+  "version": "0.1.0",
+  "description": "Customizable React-Native Calendar Component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shinyj9238/react-native-zero-calendar.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-calendar",
+    "react-native-zero-calendar",
+    "calendar",
+    "ios",
+    "android",
+    "events",
+    "legends",
+    "react-native-calendar-events",
+    "react-native-component",
+    "react-component",
+    "react-components",
+    "react-native-calendar-events-legend",
+    "react-native-calendar-legend"
+  ],
+  "author": "YungJae Shin <m.shinyj9238@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shinyj9238/react-native-zero-calendar/issues"
+  },
+  "homepage": "https://github.com/shinyj9238/react-native-zero-calendar#readme",
+  "dependencies": {
+    "moment": "^2.18.1"
+  }
+}
