@@ -175,7 +175,7 @@ renderTopBar = () => {
             resizeMode: 'contain',
             tintColor: calendarThemeColor,
     }}
-    source={require('../images/moveArrowLeft.png')}
+    source={require('./images/moveArrowLeft.png')}
 />
 </TouchableOpacity>
 
@@ -200,7 +200,7 @@ renderTopBar = () => {
             resizeMode: 'contain',
             tintColor: calendarThemeColor,
     }}
-    source={require('../images/moveArrowRight.png')}
+    source={require('./images/moveArrowRight.png')}
 />
 </TouchableOpacity>
 
