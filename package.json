@@ -1,6 +1,6 @@
 {
   "name": "react-native-zero-calendar",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Customizable React-Native Calendar Component",
   "main": "index.js",
   "scripts": {
